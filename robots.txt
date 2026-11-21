@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://voucher-insider.github.io/trip-com/sitemap.xml
